@@ -1,4 +1,2 @@
 Hello
 hi
-code_bb
-code_ms
